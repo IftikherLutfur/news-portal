@@ -1,7 +1,9 @@
+import Home from "../Layout/Home";
+
 const Root = () => {
     return (
         <div>
-         <h1>This is the main page</h1>   
+            <Home></Home>
         </div>
     );
 };
